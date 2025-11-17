@@ -1,9 +1,10 @@
 
 
-### 💛 Purely for fun
+
 
 
 <h1 align="center">Hi 👋, I'm Wenderson Dias</h1>
+### 💛 Purely for fun
 <h3 align="center">I'm a Brazilian Low-Level Software Developer with expertise in systems programming.</h3>
 
 - 🔭 I’m currently working on [Aurora Render](https://github.com/zWendersonBR/aurora-render)
