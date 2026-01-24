@@ -7,7 +7,7 @@
 
 <h3 align="center">I'm a Brazilian Low-Level Software Developer with expertise in systems programming.</h3>
 
-- 🔭 I’m currently working on [Aurora Render](https://github.com/zWendersonBR/aurora-render)
+- 🔭 I’m currently working on [Genesis Winux Shell](https://github.com/zWendersonBR/genesis-winux-shell)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
