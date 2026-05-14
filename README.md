@@ -1,78 +1,79 @@
-<!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
-  <br />
-  <br />
 
-</div>
+# 🌐 Google™ 2000 - Pesquisa de Desenvolvedor
 
-<!-- Social -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
+<!-- Logotipo Retrô -->
+<img src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.gif" alt="Google 1998-2000" width="300" />
 
-<p>
+<form>
+  <input type="text" value="Wenderson Dias: Low-Level Developer" style="width: 400px; border: 1px solid #777; padding: 5px;" readonly /> <br><br>
+  <input type="submit" value="Pesquisa Google" />
+  <input type="submit" value="Estou com sorte" />
+</form>
 
-<img alt="Globe" height="80" src="images/globe.gif">
-</a>
-</p>
+<font size="2">Pesquise na Web em 1,324,529,000 páginas</font>
 
-</td>
+---
 
-
-<td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
-<br />
-<br />
-
-
-<p>
-<img height="100" alt="Music" src="images/music.gif"> 
-</a>
-</p>
-
-</td>
-</tr>
+<table border="0" width="100%" bgcolor="#EEEEEE" cellspacing="5" cellpadding="10">
+  <tr>
+    <td width="33%" valign="top">
+      <font size="4"><b>Categorias</b></font><br>
+      <img src="https://web.archive.org/web/20000815052857im_/http://www.google.com/nav_home.gif" align="middle"> <b>C++ / C#</b><br>
+      <img src="https://web.archive.org/web/20000815052857im_/http://www.google.com/nav_home.gif" align="middle"> <b>Winux Shell</b><br>
+      <img src="https://web.archive.org/web/20000815052857im_/http://www.google.com/nav_home.gif" align="middle"> <b>Kernel Dev</b><br>
+    </td>
+    <td width="34%" valign="top" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYyeGN5bmR6NnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="150"><br>
+      <font size="2"><i>"I'm feeling lucky!"</i></font>
+    </td>
+    <td width="33%" valign="top">
+      <font size="4"><b>Estatísticas</b></font><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=zwendersonbr&show_icons=true&theme=classic&border_color=ffffff" width="250" />
+    </td>
+  </tr>
 </table>
 
+---
+
+### 💻 Projetos em Destaque
+- 📁 **[Genesis Winux Shell](https://github.com/zWendersonBR/genesis-winux-shell)** - *Reinventando a interface CLI.*
+- 📡 **RedeSnow Manager** - *Diagnostics & Network Management.*
+- 🛠️ **Aether Network** - *Sistemas de licenciamento e segurança.*
+
+---
+
+### 🛠️ Meu Arsenal (Stack)
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%23-blue?style=plastic" />
+  <img src="https://img.shields.io/badge/Language-C++-red?style=plastic" />
+  <img src="https://img.shields.io/badge/OS-Linux-yellow?style=plastic" />
+  <img src="https://img.shields.io/badge/System-Low--Level-grey?style=plastic" />
+</p>
+
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RscW5oZmxoNnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTfuxV5N2k9rXy/giphy.gif" width="100" />
+  <br>
+  <font size="2"><b>Webmaster: Wenderson Rafael</b></font>
 </div>
 
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/CSFelix"><img width="24" src="https://avatars.githubusercontent.com/u/57205604?s=24&u=eeac78f3859821d83eef1f755ff917f92bc1e976&v=4" alt="CSFelix" /> CSFelix</a> |5/8/2026, 8:40:11 PM|Hey there!!|
-| <a href="https://github.com/gibdevSanchez"><img width="24" src="https://avatars.githubusercontent.com/u/275725478?s=24&u=75bad75062787696b836f4edb698c3eb1ca6ff83&v=4" alt="gibdevSanchez" /> gibdevSanchez</a> |5/7/2026, 2:33:54 PM|so cool dawg|
-| <a href="https://github.com/rabbull"><img width="24" src="https://avatars.githubusercontent.com/u/29354199?s=24&u=95dc65d3d842a80fbe6b90c0662052c96ea6a49a&v=4" alt="rabbull" /> rabbull</a> |4/21/2026, 9:47:57 PM|Yooo|
-| <a href="https://github.com/Sakthi102003"><img width="24" src="https://avatars.githubusercontent.com/u/114235143?s=24&u=de90b4be3c258c0f9caed0f5fccfcfa93b80c321&v=4" alt="Sakthi102003" /> Sakthi102003</a> |4/18/2026, 2:40:08 AM|Heyy|
-| <a href="https://github.com/ArushiDhawale"><img width="24" src="https://avatars.githubusercontent.com/u/179369101?s=24&v=4" alt="ArushiDhawale" /> ArushiDhawale</a> |4/16/2026, 1:38:04 PM|helllooo|
-<!-- /Guestbook -->
+---
 
-<!-- Footer -->
+### 📟 Contador de Visitas
+<img src="https://profile-counter.glitch.me/zwendersonbr/count.svg" />
 
-<div align="center">
+### 🐍 Atividade Recente
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+---
 
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
-
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+<font size="1">
+©2000 Google - Ajuda - Sobre o Google - Contrate o Wenderson!<br>
+Melhor visualizado em 800x600 no Netscape Navigator.
+</font>
 
 </div>
