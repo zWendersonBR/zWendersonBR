@@ -1,79 +1,85 @@
 <div align="center">
 
-# 🌐 Google™ 2000 - Pesquisa de Desenvolvedor
+# <img src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.gif" alt="Google 2000" width="300" />
 
-<!-- Logotipo Retrô -->
-<img src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.gif" alt="Google 1998-2000" width="300" />
-
+<table border="0" cellpadding="10">
+<tr>
+<td align="center">
+<font size="3">Pesquise no portfólio de <b>Wenderson Dias</b></font><br><br>
 <form>
-  <input type="text" value="Wenderson Dias: Low-Level Developer" style="width: 400px; border: 1px solid #777; padding: 5px;" readonly /> <br><br>
-  <input type="submit" value="Pesquisa Google" />
-  <input type="submit" value="Estou com sorte" />
+<input type="text" size="45" value="Low-Level Software Developer" style="border: 1px solid #7B9EBD;"><br><br>
+<input type="button" value="Pesquisa Google"> &nbsp; <input type="button" value="Estou com sorte">
 </form>
-
-<font size="2">Pesquise na Web em 1,324,529,000 páginas</font>
-
----
-
-<table border="0" width="100%" bgcolor="#EEEEEE" cellspacing="5" cellpadding="10">
-  <tr>
-    <td width="33%" valign="top">
-      <font size="4"><b>Categorias</b></font><br>
-      <img src="https://web.archive.org/web/20000815052857im_/http://www.google.com/nav_home.gif" align="middle"> <b>C++ / C#</b><br>
-      <img src="https://web.archive.org/web/20000815052857im_/http://www.google.com/nav_home.gif" align="middle"> <b>Winux Shell</b><br>
-      <img src="https://web.archive.org/web/20000815052857im_/http://www.google.com/nav_home.gif" align="middle"> <b>Kernel Dev</b><br>
-    </td>
-    <td width="34%" valign="top" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYyeGN5bmR6NnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="150"><br>
-      <font size="2"><i>"I'm feeling lucky!"</i></font>
-    </td>
-    <td width="33%" valign="top">
-      <font size="4"><b>Estatísticas</b></font><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=zwendersonbr&show_icons=true&theme=classic&border_color=ffffff" width="250" />
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
----
+<table border="0" width="80%" cellspacing="0" cellpadding="2" bgcolor="#3366CC">
+<tr>
+<td>
+<table border="0" width="100%" cellspacing="0" cellpadding="5" bgcolor="#FFFFFF">
+<tr>
+<td align="center">
+<font size="2">
+<a href="#">Sobre o Wenderson</a> | 
+<a href="https://github.com/zWendersonBR">Repositórios</a> | 
+<a href="https://github.com/zWendersonBR/genesis-winux-shell">Genesis Winux Shell</a> | 
+<a href="#">Contato</a>
+</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
 
-### 💻 Projetos em Destaque
-- 📁 **[Genesis Winux Shell](https://github.com/zWendersonBR/genesis-winux-shell)** - *Reinventando a interface CLI.*
-- 📡 **RedeSnow Manager** - *Diagnostics & Network Management.*
-- 🛠️ **Aether Network** - *Sistemas de licenciamento e segurança.*
+<br>
 
----
+<table border="0" width="85%">
+<tr>
+<td width="50%" valign="top">
+<b><font color="#CC0000">SISTEMAS OPERACIONAIS & LOW-LEVEL</font></b><br>
+<font size="2">
+• C / C++ / C# Specialist<br>
+• Systems Programming & WinAPI<br>
+• Linux Kernel Enthusiast<br>
+• Network Infrastructure (Huawei/TP-Link)
+</font>
+</td>
+<td width="50%" valign="top">
+<b><font color="#CC0000">ESTATÍSTICAS DA WEB</font></b><br>
+<img src="https://github-readme-stats.vercel.app/api?username=zwendersonbr&show_icons=true&theme=classic&hide_border=true" width="280">
+</td>
+</tr>
+</table>
 
-### 🛠️ Meu Arsenal (Stack)
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C%23-blue?style=plastic" />
-  <img src="https://img.shields.io/badge/Language-C++-red?style=plastic" />
-  <img src="https://img.shields.io/badge/OS-Linux-yellow?style=plastic" />
-  <img src="https://img.shields.io/badge/System-Low--Level-grey?style=plastic" />
+<br>
+
+<table border="1" width="85%" bordercolor="#CCCCCC" cellspacing="0" cellpadding="10">
+<tr>
+<td align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGYyeGN5bmR6NnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="80" />
+<br>
+<b><font size="2">STATUS DO SERVIDOR: ONLINE</font></b><br>
+<font size="1">Trabalhando atualmente no Genesis Winux Shell...</font>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN6MHZueWJ0NXN6MHZueWJ0NXN6MHZueWJ0NXN6MHZueWJ0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/10vXv6P5P4NJK/giphy.gif" width="150" />
+
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/Best_viewed_in-Internet_Explorer-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Resolution-800x600-orange?style=flat-square" />
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RscW5oZmxoNnB5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5bXp6Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTfuxV5N2k9rXy/giphy.gif" width="100" />
-  <br>
-  <font size="2"><b>Webmaster: Wenderson Rafael</b></font>
-</div>
-
----
-
-### 📟 Contador de Visitas
-<img src="https://profile-counter.glitch.me/zwendersonbr/count.svg" />
-
-### 🐍 Atividade Recente
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-<font size="1">
-©2000 Google - Ajuda - Sobre o Google - Contrate o Wenderson!<br>
-Melhor visualizado em 800x600 no Netscape Navigator.
+<font size="1" face="Arial">
+&copy;2000 Google Inc. - Wenderson Dias Portfolio v1.0 <br>
+<img src="https://profile-counter.glitch.me/zwendersonbr/count.svg" alt="Visitor Counter" />
 </font>
 
 </div>
