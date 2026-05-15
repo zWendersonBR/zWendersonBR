@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 0xWENDERSON_DIAS
 **Low-Level Software Developer & Network Systems Engineer**
