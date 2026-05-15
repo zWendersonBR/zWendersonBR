@@ -7,7 +7,7 @@
 
 ### // TECH_STACK
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,apple,dotnet,linux,docker,mysql,mssql,gcp,aws,azure,arduino&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,apple,dotnet,linux,docker,mysql,gcp,aws,azure,arduino&perline=6" />
 </p>
 
 <br>
