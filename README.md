@@ -11,7 +11,7 @@
 
 ### // CORE_STACK
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,assembly,linux,docker,sql,mssql,azure,arduino&perline=10&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,asm,linux,docker,sql,mssql,azure,arduino&perline=10&theme=light" />
 </p>
 
 <br>
