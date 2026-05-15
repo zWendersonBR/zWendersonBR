@@ -5,20 +5,20 @@
 
 <br>
 
-## // ARSENAL
+# // ARSENAL
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,asm,linux,docker,mysql,mssql,azure,arduino&perline=6" />
 </p>
 
 <br>
 
-#@ // CORE_PROJECTS
+# // CORE_PROJECTS
 **[Genesis Winux Shell](https://github.com/zWendersonBR/genesis-winux-shell)** — System Interface Architecture  
 **Aether Network** — Enterprise Cloud Security & Licensing  
 **RedeSnow Manager** — Hardware Diagnostics & Triaging
 
 
-## // DATA_FLOW
+# // DATA_FLOW
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-contribution-graph.svg">
