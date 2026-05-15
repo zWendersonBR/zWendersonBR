@@ -5,33 +5,33 @@
 
 <br>
 
-### // TECH_STACK
+## // ARSENAL
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,apple,dotnet,linux,docker,mysql,gcp,aws,azure,arduino&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,asm,linux,docker,mysql,mssql,azure,arduino&perline=6" />
 </p>
 
 <br>
 
-### // CORE_PROJECTS
+#@ // CORE_PROJECTS
 **[Genesis Winux Shell](https://github.com/zWendersonBR/genesis-winux-shell)** — System Interface Architecture  
+**Aether Network** — Enterprise Cloud Security & Licensing  
+**RedeSnow Manager** — Hardware Diagnostics & Triaging
 
 
-### // DATA_FLOW
+## // DATA_FLOW
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-contribution-graph.svg">
   <img alt="Activity Graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-contribution-graph.svg" width="90%">
 </picture>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/wendersondias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wendersondias" height="30" width="40" /></a>
-<a href="https://instagram.com/wendersondiazx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wendersondiazx" height="30" width="40" /></a>
+<br>
+
+<p align="center">
+  <a href="https://twitter.com/wendersondiaszx"><img src="https://img.shields.io/badge/TWITTER-000000?style=flat&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/wendersondiaszx"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.gg/zWendersonBR"><img src="https://img.shields.io/badge/DISCORD-000000?style=flat&logo=discord&logoColor=white" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zwendersonbr&show_icons=true&locale=en&layout=compact" alt="zwendersonbr" /></p>
-
-<p><img alinhar="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zwendersonbr&" alt="zwendersonbr" /></p>
 
 <br>
 
