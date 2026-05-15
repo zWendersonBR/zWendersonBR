@@ -23,13 +23,15 @@
   <img alt="Activity Graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-contribution-graph.svg" width="90%">
 </picture>
 
-<br>
-
-<p align="center">
-  <a href="https://twitter.com/wendersondiaszx"><img src="https://img.shields.io/badge/TWITTER-000000?style=flat&logo=x&logoColor=white" /></a>
-  <a href="https://instagram.com/wendersondiaszx"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.gg/zWendersonBR"><img src="https://img.shields.io/badge/DISCORD-000000?style=flat&logo=discord&logoColor=white" /></a>
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/wendersondias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wendersondias" height="30" width="40" /></a>
+<a href="https://instagram.com/wendersondiazx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wendersondiazx" height="30" width="40" /></a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zwendersonbr&show_icons=true&locale=en&layout=compact" alt="zwendersonbr" /></p>
+
+<p><img alinhar="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zwendersonbr&" alt="zwendersonbr" /></p>
 
 <br>
 
