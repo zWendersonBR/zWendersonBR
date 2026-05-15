@@ -14,15 +14,7 @@
 
 ### // CORE_PROJECTS
 **[Genesis Winux Shell](https://github.com/zWendersonBR/genesis-winux-shell)** — System Interface Architecture  
-**Aether Network** — Enterprise Cloud Security & Licensing  
-**RedeSnow Manager** — Hardware Diagnostics & Triaging
 
-<br>
-
-### // INFRASTRUCTURE
-`Huawei S5730` · `TP-Link Config` · `Diagnostic Protocols` · `System Monitoring`
-
-<br>
 
 ### // DATA_FLOW
 <picture>
